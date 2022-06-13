@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri May 13 20:52:24 2022
+# Process ID: 8289
+# Current directory: /home/moblau/ece520/lab10/hls/matrixmult/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/moblau/ece520/lab10/hls/matrixmult/solution1/impl/ip/vivado.log
+# Journal file: /home/moblau/ece520/lab10/hls/matrixmult/solution1/impl/ip/vivado.jou
+# Running On: moblau, OS: Linux, CPU Frequency: 2800.000 MHz, CPU Physical cores: 2, Host memory: 20831 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace

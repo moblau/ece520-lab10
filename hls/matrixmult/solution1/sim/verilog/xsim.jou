@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# xsim v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri May 13 20:31:25 2022
+# Process ID: 5262
+# Current directory: /home/moblau/ece520/lab10/hls/matrixmult/solution1/sim/verilog
+# Command line: xsim -source {xsim.dir/matrixmul/xsim_script.tcl}
+# Log file: /home/moblau/ece520/lab10/hls/matrixmult/solution1/sim/verilog/xsim.log
+# Journal file: /home/moblau/ece520/lab10/hls/matrixmult/solution1/sim/verilog/xsim.jou
+# Running On: moblau, OS: Linux, CPU Frequency: 1895.351 MHz, CPU Physical cores: 2, Host memory: 20831 MB
+#-----------------------------------------------------------
+start_gui
+source xsim.dir/matrixmul/xsim_script.tcl
+open_wave_config matrixmul_dataflow_ana.wcfg
+source matrixmul.tcl
+close_sim
